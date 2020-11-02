@@ -1,2 +1,3 @@
 /phone-frontend/node_modules
 /phone-backend/node_modules
+/phone-backend/serviceAccount.json
